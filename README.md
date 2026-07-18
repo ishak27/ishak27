@@ -1,6 +1,6 @@
-# Hi, I'm Isha Kashyap 👋
+# Hi, I'm Isha Kashyap 
 
-### Third-Year Computer Science Engineering (AI) Student | Machine Learning Enthusiast | Full-Stack Learner
+### Third-Year CSE(AI&ML) Student | Machine Learning Enthusiast | Full-Stack Learner
 
 ---
 
@@ -31,7 +31,23 @@ I enjoy exploring Artificial Intelligence, Machine Learning, and Full-Stack Deve
 
 ---
 
+## 🚀 Projects
+
+### 🍽️ Food Price Prediction
+A Machine Learning project that predicts food prices using historical data. The project includes data preprocessing, feature engineering, model training, and evaluation using multiple regression models.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
+
+---
+
+### 🐾 Pet Adoption Website
+A full-stack web application that helps users browse and adopt pets. It includes user authentication, pet listings, and REST API integration for managing pet data.
+
+**Tech Stack:** Django, Flask REST API, Python, SQLite, HTML, CSS, Bootstrap, JWT Authentication
+
+---
+
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: *Add your LinkedIn profile*
-- 📧 Email: *Add your email*
+- 💼 LinkedIn: https://www.linkedin.com/in/isha-kashyap-403005332/
+- 📧 Email: ishakashayp17@gmail.com

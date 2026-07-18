@@ -1,37 +1,37 @@
 # Hi, I'm Isha Kashyap 👋
 
-### Third-Year CSE (AI) Student
+### Third-Year Computer Science Engineering (AI) Student | Machine Learning Enthusiast | Full-Stack Learner
 
-💻 Building projects and learning through them.
+---
 
-🌱 Exploring AI, Machine Learning & Full-Stack Development.
+## 👩‍💻 About Me
 
-🚀 Learning, Building, Growing.
+I'm a third-year Computer Science Engineering (AI) student passionate about learning by building real-world projects.
+
+I enjoy exploring Artificial Intelligence, Machine Learning, and Full-Stack Development while continuously improving my problem-solving and programming skills.
+
+- 🌱 Learning, Building, Growing 🚀
+- 🤖 Exploring AI, Machine Learning & Full-Stack Development
+- 💻 Building projects and learning through them
+- 🧠 Currently strengthening my skills in Java, Python, DSA, Machine Learning, and Backend Development
+- 🌐 Created responsive web projects using HTML, CSS, and JavaScript
+- 🎯 Open to learning, collaboration, and new opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Java
-- Python
-- C++
-- HTML
-- CSS
-- JavaScript
-- Machine Learning
-- Git & GitHub
+**Languages:** Java • Python • C++ • SQL
 
----
+**Web:** HTML • CSS • JavaScript • Django • Flask
 
-## 📂 Projects
+**Machine Learning:** Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
 
-- 🍽️ Food Price Prediction (Machine Learning)
-- 🐾 Pet Adoption Website (Django + Flask)
-- 🌐 Personal Portfolio Website
+**Tools:** Git • GitHub • VS Code • Jupyter Notebook
 
 ---
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/isha-kashyap-403005332/
-- Email: ishakashyap17@gmail.com
+- 💼 LinkedIn: *Add your LinkedIn profile*
+- 📧 Email: *Add your email*

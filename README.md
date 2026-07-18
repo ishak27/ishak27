@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Isha Kashyap 👋
 
-<!--
-**ishak27/ishak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Third-Year CSE (AI) Student
 
-Here are some ideas to get you started:
+💻 Building projects and learning through them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Exploring AI, Machine Learning & Full-Stack Development.
+
+🚀 Learning, Building, Growing.
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+- Machine Learning
+- Git & GitHub
+
+---
+
+## 📂 Projects
+
+- 🍽️ Food Price Prediction (Machine Learning)
+- 🐾 Pet Adoption Website (Django + Flask)
+- 🌐 Personal Portfolio Website
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/isha-kashyap-403005332/
+- Email: ishakashyap17@gmail.com

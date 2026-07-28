@@ -1,6 +1,6 @@
 # Hi, I'm Isha Kashyap 
 
-### Third-Year CSE(AI&ML) Student | Machine Learning Enthusiast | Full-Stack Learner
+### Third-Year CSE (AI&ML) Student | Machine Learning Enthusiast | Full-Stack Learner
 
 ---
 
